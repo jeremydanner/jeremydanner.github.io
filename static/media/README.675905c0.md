@@ -1,4 +1,4 @@
-*Jag söker inte något nytt just nu*👨‍💻
+**Jag söker inte något nytt just nu**👨‍💻
 
 Jeremy heter jag och bor i Partille utanför Göteborg. Jag har tidigare arbetat innom sjukvåden i flera
 år. När jag var ledig ifrån jobbet började jag proggramera i brist på annat att göra och har sedan dess varit
